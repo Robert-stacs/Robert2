@@ -18,7 +18,7 @@ while flag:
 			a[i] = a[i+1]
 			a[i+1] = b
 	print(a)
-t=int(input("число которое надо найти"))
+t=int(input("число которое ну может надо найти"))
 left=0
 righa=len(a)-1
 mid=(left+righa)//2
